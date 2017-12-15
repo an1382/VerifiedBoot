@@ -14,4 +14,5 @@ Algorithm	  Speed	              Note
 > SHA-256	  26MB/s*	            NIST recommended for use after 2010 
 
 > SHA-512	  27MB/s*	
-`*` - 8192 byte blocks.
+
+> `*` : 8192 byte blocks.
